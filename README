@@ -8,3 +8,5 @@ Matlab files are all used for lp file generation. They are labeled by the projec
 web-s.py is the python file used to webscrape data from the whitewater database website: https://www.americanwhitewater.org/content/River/state-summary/?state=WA
 
 POST_creation.py is the python file used to create the POST requests for the Microsoft API. 
+
+MapGenerationAPI.py is the python file that helps generate GET requests for the maps API. It includes links to the URLs used to retrieve the map figures in the paper.
